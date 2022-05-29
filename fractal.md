@@ -18,7 +18,7 @@ permalink: /fractal/
             <figcaption class="figure-caption text-center"><h4 class="text-white"> Koch snowflake Object</h4></figcaption>
         </figure>
          <figure class="figure">
-            <img class="img-fluid" src="/works.github.io/assets/img/fractal-4.jpg" alt="">
+            <img class="img-fluid" src="/works.github.io/assets/img/fractal-4.JPG" alt="">
             <figcaption class="figure-caption text-center"><h4 class="text-white"> Christmas Version </h4></figcaption>
         </figure>
         <br>

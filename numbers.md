@@ -16,13 +16,13 @@ permalink: /numbers/
         <h4><a href="https://twitter.com/yousuck2020/status/1304268028960485376?s=21&t=rIVlZjSTjiGUYCIdUtreQA" class="text-white"><i>「前澤ナンバーズ」</i></a>に応募されたデータをTwitterのAPIで50万件取得して分析しました</h4>   
         <br>
         <figure class="figure">
-            <img class="img-fluid" src="/works.github.io/assets/img/numbers-1.jpg" alt="">
+            <img class="img-fluid" src="/works.github.io/assets/img/numbers-1.JPG" alt="">
             <figcaption class="figure-caption text-center"><h4 class="text-white"> Fig1. The distribution of 4-didit numbers</h4></figcaption>
         </figure>
         <br>
         <br>
         <figure class="figure">
-            <img class="img-fluid" src="/works.github.io/assets/img/numbers-2.png" alt=""> 
+            <img class="img-fluid" src="/works.github.io/assets/img/numbers-2.PNG" alt=""> 
             <figcaption class="figure-caption text-center"><h4 class="text-white">Fig2. Top 30 most frequent 4-digit numbers</h4></figcaption>
         </figure>
         <br>
