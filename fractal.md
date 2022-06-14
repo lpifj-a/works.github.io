@@ -11,7 +11,7 @@ permalink: /fractal/
             <h3 class="text-secondary mb-0">Portfolio</h3>
             <h2 class="mb-5">コッホ雪片のオブジェ</h2>
         </div>
-        <h4> 綿棒と障子紙で３次のコッホ曲線の工作をしました</h4>   
+        <h4> 綿棒と障子紙で３次のコッホ雪片の工作をしました</h4>   
         <br>
         <figure class="figure">
             <img class="img-fluid" src="/works.github.io/assets/img/fractal-1.jpeg" alt="">
